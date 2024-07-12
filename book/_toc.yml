@@ -2,9 +2,22 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: Welkom
     chapters:
-    - file: some_content/overview.md
+    - file: Intro/start
       sections:
-      - file: some_content/text_and_code.ipynb
-    - file: references.md
+      - file: Intro/Teaser
+      - file: Intro/GO
+      - file: Intro/Literatuur
+      - file: Intro/Wieiswie
+      - file: Intro/Uitwisselen
+
+  - caption: Week 1
+    chapters:
+    - file: Week1/Verdieping
+
+  # - caption: Week 2
+
+  # - caption: Week 3
+
+  # - caption: Week 4
