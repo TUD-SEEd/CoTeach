@@ -4,13 +4,10 @@ root: intro.md
 parts:
   - caption: Welkom
     chapters:
-    - file: Intro/start
+    - file: Intro/Informatie
       sections:
       - file: Intro/Teaser
       - file: Intro/GO
-      - file: Intro/Literatuur
-      - file: Intro/Wieiswie
-      - file: Intro/Uitwisselen
 
   - caption: Week 1
     chapters:
