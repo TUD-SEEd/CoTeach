@@ -54,3 +54,55 @@ In de eerste bijeenkomst is het kort gegaan over formatief evalueren. Fris je ke
 Bij Stichting Leerplanontwikkeling (SLO) kun je lesvoorbeelden vinden  voor zowel PO als VO. Neem er een aantal door om te zien hoe formatief evalueren in een les verwerkt kan worden.
 
 Pak je lesplan erbij. Wil je formatief evalueren laten terugkomen? Zo ja, bedenk wat en waar je formatief wil evalueren en zet dat in je lesplan. 
+
+# Lesplan maken
+Tijdens de eerste bijeenkomst heb je je expertise naar een les vertaald.
+Deze les kun je verder in een lesplan uitwerken, zodat je bewuster gaat nadenken over het ontwerp van je les.
+
+Op de TU Delft lerarenopleiding  wordt daar een uitgebreid lesplanformulier voor gebruikt. In deze module worden de eerste 2 delen gebruikt om een les te maken. In de komende twee video's legt een vakdidacticus wiskunde in meer detail het formulier uit.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6OIbinj98?si=e0jLjaTTFfnYtsMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1080" height="607" src="https://www.youtube.com/embed/Botc9HZ-uDc" title="Lesplan formulier deel 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Leerdoelen zijn gericht op het leerproces van leerlingen. Als co-teacher kun je een leerdoel gebruiken om duidelijk te maken wat er geleerd kan worden binnen een les. Leerdoelen kun je zelf opstellen, maar je kunt ze ook terugvinden in tekstboek van vakken of voor het primair onderwijs op SLO. 
+
+Voor primair onderwijs werkt dit heel goed àselecteer ‘oriëntatie op jezelf en de wereld’ à  ga naar inhoudslijnen en dan fase 3 (=bovenbouw). Kies jouw deelgebied uit de onderwerpen die er staan:
+
+FIGUUR
+
+Om te achterhalen of een leerdoel is bereikt, kun je gebruik maken van succescriteria. Deze geven een leerling het inzicht om vast te stellen of hij/ zij het doel bereikt heeft. 
+
+In de volgende video wordt dieper ingegaan door een vakdidacticus natuurkunde op leerdoelen en succescriteria. t/m 12.37 is voldoende om te kijken.
+
+<iframe width="1080" height="607" src="https://www.youtube.com/embed/1kQd5mNhjew" title="Leerdoelen en succescriteria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# De leerling
+
+<p><a href="https://www.onderwijsloket.com/voorbereiden-module/" target="[object Object]">Module "de leerling"</a>: een&nbsp;demoversie van een module waarbij je dieper ingaat op de leerling. (bron: het Onderwijsloket)</p>
+<p><a href="https://llearn.libsyn.com/14-motivatie" target="[object Object]">Motivatie leerlingen</a>: in deze podcast (50 min) worden 8 motivatie-principes besproken en wat ze voor jou in de les kunnen betekenen.&nbsp;</p>
+<p><a href="https://open.spotify.com/episode/6rJtLwGcx01X5QrDJ1r7IL?si=mg_-8kPSTDqOCsjb7D8z1g" target="[object Object]">Mijn eerste jaar voor de klas:</a>&nbsp;podcasts waarbij startende docenten over diverse onderwerpen praten. (bron: VO-raad)</p>
+
+# Bouwstenen les 
+<p><strong>Zicht op begrip van leerlingen:</strong></p>
+<ul>
+<li>Een samenvatting van een BBC-documentaire (<a href="https://www.youtube.com/watch?v=b0TTgeSn7ys">The Classroom Experiment</a>,&nbsp;11 min) waarin Dylan Williams experimenteert met technieken van&nbsp;check op begrip&nbsp;in de klas, zoals wisbordjes en verkeerslichttechniek.</li>
+</ul>
+<p><strong><span style="font-size: 1em;">Werkvormen:</span></strong></p>
+<ul>
+<li>Een natuurkunde docent heeft meer dan 100 werkvormen verzameld en op categorie ingedeeld.&nbsp;<a href="/static/Activerende-werkvormen-SLO-bundel.pdf" target="[object Object]">Een naslagwerk</a> voor als je een keer&nbsp; een nieuwe werkvorm wilt uitproberen.</li>
+</ul>
+<p></p>
+
+## Wijze lessen (35 min, luisteren)
+
+<p>In de volgende bijeenkomsten zal het boek <em>wijze lessen</em> gebruikt worden als naslagwerk. <br />In dit boek&nbsp; worden inzichten uit&nbsp;twee grote wetenschappelijke velden gekoppeld: onderzoek naar effectiviteit&nbsp;van leraren en cognitieve psychologie.&nbsp;Luister hier alvast naar&nbsp;<a href="https://wijzelessen.transistor.fm/episodes/1-inzichten" target="[object Object]">de introductie</a> op het boek.&nbsp;<br /><br /><br /></p>
+<p></p>
+
+## Materialen
+
+    Presentatie van de eerste bijeenkomst
+    Lesplanformulier om je lesontwerp in te zetten.
+    Kijkwijzer, zodat je focust op bepaalde aspecten in een les: voorbeeld 1 en voorbeeld 2
+
+    Presentatie van de achtergrond en stand van zaken Co-Teach
